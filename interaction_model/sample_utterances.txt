@@ -1,0 +1,28 @@
+GetBrandsList what are all the available phone brands
+GetBrandsList what are all the available phone makes
+GetBrandsList what are all the phone brands
+GetBrandsList what are all the phone makes
+GetBrandsList get a list of available all phone brands
+GetBrandsList get a list of available all phone brands
+GetBrandsList provide me with a list of all phone brands
+GetBrandsList provide me with a list of all phone makes
+GetBrandsList get a list of all phone brands
+GetBrandsList get a list of all phone makes
+GetBrandsList get a list of all brands
+GetBrandsList get a list of all makes
+GetBrandsList list all brands
+GetBrandsList list all makes
+GetPhonesList what are all the {Brand} phones
+GetPhonesList what are all the {Brand} phone models
+GetPhonesList what are all the {Brand} models
+GetPhonesList get a list of {Brand} phones
+GetPhonesList get a list of {Brand} phone models
+GetPhonesList get a list of {Brand} models
+GetPhonesList list of {Brand} phones
+GetPhonesList list of {Brand} phone models
+GetPhonesList list all {Brand} phones
+GetPhonesList list all {Brand} phone models
+GetPhonesList provide me with all {Brand} phones
+GetPhonesList provide me with all {Brand} phone models
+GetPhonesList provide me with all {Brand} models
+GetPhonesList give me a list of {Brand} phones

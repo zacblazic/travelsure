@@ -1,0 +1,10 @@
+slack:
+  api_token: <%= ENV["SLACK_API_TOKEN"] || '' %>
+
+facebook:
+  page_access_token: <%= ENV["FACEBOOK_PAGE_ACCESS_TOKEN"] %>
+  verify_token: a_really_long_and_random_token
+
+root:
+  app_id: <%= ENV["ROOT_APP_ID"] || ENV["ROOT_API_ID"] || '' %>
+  app_secret: <%= ENV["ROOT_APP_SECRET"] || '' %>

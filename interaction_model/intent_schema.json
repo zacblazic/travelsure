@@ -1,0 +1,31 @@
+{
+  "intents": [
+    {
+      "intent": "AMAZON.CancelIntent"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.NoIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AMAZON.YesIntent"
+    },
+    {
+      "intent": "GetBrandsList"
+    },
+    {
+      "slots": [
+        {
+          "name": "Brand",
+          "type": "LIST_OF_BRANDS"
+        }
+      ],
+      "intent": "GetPhonesList"
+    }
+  ]
+}
